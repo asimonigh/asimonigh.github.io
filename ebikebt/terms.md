@@ -4,7 +4,7 @@ title: Terms of Service
 
 # Terms of Service — eBike Sync
 
-_Last updated: 2026-04-30_
+_Last updated: 2026-05-28_
 
 By installing or using the eBike Sync application ("the App"), you agree to these Terms of Service.
 
@@ -22,7 +22,7 @@ You may not reverse-engineer, decompile, or redistribute the App except as permi
 
 ### 2.1 Free trial
 
-The App offers a 7-day free trial of the paid features. The trial starts when you opt in, not when you install the App. During the trial you can cancel at any time without being charged.
+The App offers a 20-day free trial of the paid features. The trial starts when you opt in, not when you install the App. During the trial you can cancel at any time without being charged.
 
 ### 2.2 Auto-renewing subscription
 

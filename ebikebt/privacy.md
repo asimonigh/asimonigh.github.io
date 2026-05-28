@@ -4,7 +4,7 @@ title: Privacy Policy
 
 # Privacy Policy — eBike Sync
 
-_Last updated: 2026-04-30_
+_Last updated: 2026-05-28_
 
 This Privacy Policy explains how the eBike Sync mobile application ("the App", "we") handles information when you use it. The App is published by Anthony Simonigh ("the developer") and distributed through the Google Play Store and the Apple App Store.
 
