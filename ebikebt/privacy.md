@@ -4,17 +4,17 @@ title: Privacy Policy
 
 # Privacy Policy — eBike Sync
 
-_Last updated: 2026-05-28_
+_Last updated: 2026-05-29_
 
 This Privacy Policy explains how the eBike Sync mobile application ("the App", "we") handles information when you use it. The App is published by Anthony Simonigh ("the developer") and distributed through the Google Play Store and the Apple App Store.
 
-We designed eBike Sync to require **no user account**, collect **no personally identifiable information**, and keep your bike data **on your device**.
+We designed eBike Sync to require **no user account**, collect **no personally identifiable information**, and keep your bike data **on your device**. The only exception is a diagnostic log that **you can choose** to email to support to report a problem (see section 2.5).
 
 ---
 
 ## 1. Information processed locally on your device
 
-When you use the App, the following information is read from your e-bike or your phone and **stays on your device** — it is never transmitted to us or to any third party:
+When you use the App, the following information is read from your e-bike or your phone and **stays on your device**. We never transmit it automatically; the only time any of it leaves your device is if **you** choose to send a diagnostic log to support (see section 2.5):
 
 - Bike telemetry over Bluetooth Low Energy (BLE): speed, battery state of charge, assist mode, distance, motor power, cadence, error codes, IMU/orientation, and any other data exposed by the bike's protocol (Yamaha YEP, Yamaha STD200, Giant RideControl, BL60S/Mirror100).
 - Bike identifiers advertised over BLE: device name, MAC address, manufacturer service UUIDs.
@@ -63,6 +63,19 @@ RevenueCat privacy policy: <https://www.revenuecat.com/privacy>
 
 When you subscribe, your transaction is processed by Google Play (Android) or Apple StoreKit (iOS). They share with us only the information necessary to validate your subscription (purchase token, product identifier, expiration date). We never receive your payment details.
 
+### 2.5 Diagnostic logs (sent only when you request it)
+
+To help diagnose Bluetooth connection problems, the App keeps a rolling debug log on your device (in the App's private storage). This log is **never sent automatically**. It leaves your device **only** when you tap **"Send logs to support"** in Settings, which opens **your email app** with the log attached so you can review it and send it to the developer (`anthony.simonigh.pro@gmail.com`).
+
+The log may contain:
+
+- BLE connection events, handshake steps, errors and timeouts
+- Bike identifiers (device name, BLE/MAC address, service UUIDs) and serial numbers (e.g. Yamaha DU serial, meter ID)
+- Bike telemetry (speed, battery, assist mode, distance, motor power, etc.)
+- When **"Verbose BLE logging"** is enabled (Settings → Debug logs), the raw BLE packets exchanged with the bike
+
+You stay in control: turn off **"Verbose BLE logging"** to exclude the raw packet data, and the email is sent only if you complete it in your email app. We use the log solely to investigate the issue you report.
+
 ---
 
 ## 3. Permissions requested by the App
@@ -91,6 +104,7 @@ You can at any time:
 - **Manage your subscription**: directly in the [Google Play subscriptions page](https://play.google.com/store/account/subscriptions) or in your iOS Settings.
 - **Restore your purchase**: tap "Restore Purchases" in the App's settings.
 - **Request deletion of crash data**: contact us at the email below.
+- **Control diagnostic logs**: turn off "Verbose BLE logging" in Settings to exclude raw packet data; a log only ever leaves your device if you email it to support yourself.
 
 Depending on your jurisdiction (EU/EEA — GDPR, California — CCPA), you may have additional rights. We will honor them on request.
 
