@@ -4,7 +4,7 @@ title: Privacy Policy
 
 # Privacy Policy — eBike Sync
 
-_Last updated: 2026-05-29_
+_Last updated: 2026-06-03_
 
 This Privacy Policy explains how the eBike Sync mobile application ("the App", "we") handles information when you use it. The App is published by Anthony Simonigh ("the developer") and distributed through the Google Play Store and the Apple App Store.
 
@@ -65,7 +65,7 @@ When you subscribe, your transaction is processed by Google Play (Android) or Ap
 
 ### 2.5 Diagnostic logs (sent only when you request it)
 
-To help diagnose Bluetooth connection problems, the App keeps a rolling debug log on your device (in the App's private storage). This log is **never sent automatically**. It leaves your device **only** when you tap **"Send logs to support"** in Settings, which opens **your email app** with the log attached so you can review it and send it to the developer (`anthony.simonigh.pro@gmail.com`).
+To help diagnose Bluetooth connection problems, the App keeps a rolling debug log on your device (in the App's private storage). This log is **never sent automatically**. It leaves your device **only** when you tap **"Send logs to support"** in Settings, which opens **your email app** with the log attached so you can review it and send it to the developer (`ebikesyncapp@gmail.com`).
 
 The log may contain:
 
@@ -120,5 +120,5 @@ We may update this policy. The "Last updated" date at the top will reflect the c
 
 Questions or requests:
 
-**Email:** [anthony.simonigh.pro@gmail.com](mailto:anthony.simonigh.pro@gmail.com)
+**Email:** [ebikesyncapp@gmail.com](mailto:ebikesyncapp@gmail.com)
 **Developer:** Anthony Simonigh

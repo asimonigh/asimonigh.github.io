@@ -4,7 +4,7 @@ title: Terms of Service
 
 # Terms of Service — eBike Sync
 
-_Last updated: 2026-05-28_
+_Last updated: 2026-06-03_
 
 By installing or using the eBike Sync application ("the App"), you agree to these Terms of Service.
 
@@ -79,5 +79,5 @@ These terms are governed by the laws of France. Any dispute will be brought befo
 
 ## 9. Contact
 
-**Email:** [anthony.simonigh.pro@gmail.com](mailto:anthony.simonigh.pro@gmail.com)
+**Email:** [ebikesyncapp@gmail.com](mailto:ebikesyncapp@gmail.com)
 **Developer:** Anthony Simonigh

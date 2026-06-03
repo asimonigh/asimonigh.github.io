@@ -11,6 +11,6 @@ Connect to your e-bike via Bluetooth to display real-time ride telemetry — spe
 - [Privacy Policy](privacy.html)
 - [Terms of Service](terms.html)
 
-## Contact
+## Support
 
-[anthony.simonigh.pro@gmail.com](mailto:anthony.simonigh.pro@gmail.com)
+Need help? See our [Support page](support.html) or email [ebikesyncapp@gmail.com](mailto:ebikesyncapp@gmail.com).
