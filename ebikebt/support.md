@@ -20,9 +20,8 @@ your email app with the log attached so you can review and send it.
 
 eBike Sync connects over Bluetooth to:
 
-- **Yamaha** Interface X (PWseries / YEP) and STD200 displays
-- **Giant** RideControl with SyncDrive motors
-- **BL60S** and **Mirror100** cycle computers
+- A growing range of e-bike Bluetooth displays and motor systems
+- Compatible cycle computers
 
 Don't see your bike? Email us — we're actively expanding compatibility.
 
@@ -54,4 +53,4 @@ Your bike data stays on your device. See our [Privacy Policy](privacy.html) for 
 ---
 
 _eBike Sync is an independent app and is not affiliated with or endorsed by
-Yamaha, Giant, or any e-bike manufacturer._
+any e-bike manufacturer._

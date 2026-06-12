@@ -16,7 +16,7 @@ We designed eBike Sync to require **no user account**, collect **no personally i
 
 When you use the App, the following information is read from your e-bike or your phone and **stays on your device**. We never transmit it automatically; the only time any of it leaves your device is if **you** choose to send a diagnostic log to support (see section 2.5):
 
-- Bike telemetry over Bluetooth Low Energy (BLE): speed, battery state of charge, assist mode, distance, motor power, cadence, error codes, IMU/orientation, and any other data exposed by the bike's protocol (Yamaha YEP, Yamaha STD200, Giant RideControl, BL60S/Mirror100).
+- Bike telemetry over Bluetooth Low Energy (BLE): speed, battery state of charge, assist mode, distance, motor power, cadence, error codes, IMU/orientation, and any other data exposed by the bike's Bluetooth protocol.
 - Bike identifiers advertised over BLE: device name, MAC address, manufacturer service UUIDs.
 - App preferences: unit system (metric/imperial), onboarding completion flag, last known subscription state.
 
@@ -70,7 +70,7 @@ To help diagnose Bluetooth connection problems, the App keeps a rolling debug lo
 The log may contain:
 
 - BLE connection events, handshake steps, errors and timeouts
-- Bike identifiers (device name, BLE/MAC address, service UUIDs) and serial numbers (e.g. Yamaha DU serial, meter ID)
+- Bike identifiers (device name, BLE/MAC address, service UUIDs) and serial numbers (e.g. drive-unit serial, meter ID)
 - Bike telemetry (speed, battery, assist mode, distance, motor power, etc.)
 - When **"Verbose BLE logging"** is enabled (Settings → Debug logs), the raw BLE packets exchanged with the bike
 

@@ -55,7 +55,7 @@ To the maximum extent permitted by law, we are not liable for any direct, indire
 
 ## 5. Bluetooth and bike protocols
 
-The App communicates with e-bike meters using publicly observed BLE protocols. We are not affiliated with, endorsed by, or sponsored by Yamaha, Giant, Liv, or any other bike manufacturer. Connecting to your bike does not affect your manufacturer's warranty in our experience, but **you use the App at your own risk**.
+The App communicates with e-bike meters using publicly observed BLE protocols. We are not affiliated with, endorsed by, or sponsored by any bike manufacturer. Connecting to your bike does not affect your manufacturer's warranty in our experience, but **you use the App at your own risk**.
 
 ---
 
