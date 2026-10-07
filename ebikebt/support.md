@@ -37,10 +37,16 @@ Don't see your bike? Email us — we're actively expanding compatibility.
 Power-cycle the bike's display and reconnect. If it persists, send us a
 diagnostic log (see Contact above).
 
+### The app reconnects to my bike on its own
+At launch, eBike Sync reconnects to the last bike you used. You can turn this
+off in **Settings → Auto-reconnect**.
+
 ### Managing your subscription
-eBike Sync Premium is an auto-renewable annual subscription billed by Apple.
-- **Manage or cancel:** iPhone **Settings → [your name] → Subscriptions**.
-- **Restore a purchase** (e.g. after reinstalling): open the app and tap **Restore Purchases**.
+eBike Sync Premium is an auto-renewable annual subscription billed by Apple on
+iPhone and by Google Play on Android.
+- **Manage or cancel on iPhone:** **Settings → [your name] → Subscriptions**.
+- **Manage or cancel on Android:** **Google Play → Profile → Payments & subscriptions → Subscriptions**.
+- **Restore a purchase** (e.g. after reinstalling): in the app, go to **Settings → Restore purchases**.
 
 ### Privacy
 Your bike data stays on your device. See our [Privacy Policy](privacy.html) for details.
