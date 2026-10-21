@@ -2,11 +2,11 @@
 title: Terms of Use
 ---
 
-# Terms of Use — Fake My GPS Location
+# Terms of Use — MockRoute
 
 _Last updated: 2026-10-21_
 
-By installing or using the Fake My GPS Location application ("the App"), you agree to these Terms of Use.
+By installing or using the MockRoute application ("the App"), you agree to these Terms of Use.
 
 ---
 
@@ -56,7 +56,7 @@ The subscription is billed through your Google Play account at the price and for
 You can cancel the subscription at any time:
 
 - **In the App:** Settings → "Manage on Google Play"
-- **In Google Play:** Profile → Payments & subscriptions → Subscriptions → Fake My GPS Location → Cancel
+- **In Google Play:** Profile → Payments & subscriptions → Subscriptions → MockRoute → Cancel
 
 Cancelling stops the next renewal. You keep Pro features until the end of the current period. No prorated refund is issued by us. Refunds are handled by Google Play under its refund policy.
 

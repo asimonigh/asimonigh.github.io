@@ -2,11 +2,11 @@
 title: Privacy Policy
 ---
 
-# Privacy Policy — Fake My GPS Location
+# Privacy Policy — MockRoute
 
 _Last updated: 2026-10-21_
 
-This Privacy Policy explains how the Fake My GPS Location mobile application ("the App", "we") handles information when you use it. The App is published by Anthony Simonigh ("the developer") and distributed through the Google Play Store.
+This Privacy Policy explains how the MockRoute mobile application ("the App", "we") handles information when you use it. The App is published by Anthony Simonigh ("the developer") and distributed through the Google Play Store.
 
 The App requires **no user account**, shows **no ads** and uses **no analytics**. We have **no backend server**: your routes, places and settings stay **on your device**. Some features need an online service (the map, place search, road routing, subscriptions, crash reports). Section 2 lists exactly what each one receives.
 
