@@ -4,7 +4,7 @@ title: Privacy Policy
 
 # Privacy Policy — MockRoute
 
-_Last updated: 2026-10-21_
+_Last updated: 2026-10-22_
 
 This Privacy Policy explains how the MockRoute mobile application ("the App", "we") handles information when you use it. The App is published by Anthony Simonigh ("the developer") and distributed through the Google Play Store.
 
@@ -85,7 +85,7 @@ Firebase Crashlytics data handling: <https://firebase.google.com/support/privacy
 
 ### 2.7 Support e-mail (sent only when you request it)
 
-Tapping **"Contact support"** in Settings opens **your email app** with the App version, your device model and your Android version filled in. Nothing is sent unless you send the email yourself.
+Tapping **"Contact support"** in Settings opens **your email app** with the App version, your device model, your Android version and your **anonymous RevenueCat and Firebase identifiers** filled in. The App has no account, so these identifiers are the only way for us to find your data if you ask us to delete it. You can remove them before sending. Nothing is sent unless you send the email yourself.
 
 ---
 
@@ -131,7 +131,7 @@ You can at any time:
 - **Delete your data**: delete routes in the App, clear the App's storage in Android settings, or uninstall the App. Uninstalling deletes all local data and the anonymous RevenueCat ID.
 - **Manage your subscription**: on the [Google Play subscriptions page](https://play.google.com/store/account/subscriptions).
 - **Restore your purchase**: tap "Restore purchases" in the App's settings.
-- **Request access to or deletion of crash data**: contact us at the email below.
+- **Request access to or deletion of the data held by RevenueCat and Firebase Crashlytics**: tap "Contact support" in Settings, so the email includes your anonymous identifiers, or contact us at the email below.
 
 Depending on your jurisdiction (EU/EEA — GDPR, California — CCPA), you may have additional rights, such as access, rectification, erasure, restriction, objection and portability. We will honor them on request. In the EU you can also lodge a complaint with your data protection authority (in France, the CNIL).
 
