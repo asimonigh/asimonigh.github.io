@@ -4,7 +4,7 @@ title: Terms of Use
 
 # Terms of Use — MockRoute
 
-_Last updated: 2026-10-21_
+_Last updated: 2026-10-23_
 
 By installing or using the MockRoute application ("the App"), you agree to these Terms of Use.
 
@@ -100,5 +100,5 @@ These terms are governed by the laws of France. Any dispute will be brought befo
 
 ## 11. Contact
 
-**Email:** [anthony.simonigh.pro@gmail.com](mailto:anthony.simonigh.pro@gmail.com)
+**Email:** [mockroute.fakegps@gmail.com](mailto:mockroute.fakegps@gmail.com)
 **Developer:** Anthony Simonigh

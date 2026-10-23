@@ -4,7 +4,7 @@ title: Privacy Policy
 
 # Privacy Policy — MockRoute
 
-_Last updated: 2026-10-22_
+_Last updated: 2026-10-23_
 
 This Privacy Policy explains how the MockRoute mobile application ("the App", "we") handles information when you use it. The App is published by Anthony Simonigh ("the developer") and distributed through the Google Play Store.
 
@@ -147,5 +147,5 @@ We may update this policy. The "Last updated" date at the top will reflect the c
 
 Questions or requests:
 
-**Email:** [anthony.simonigh.pro@gmail.com](mailto:anthony.simonigh.pro@gmail.com)
+**Email:** [mockroute.fakegps@gmail.com](mailto:mockroute.fakegps@gmail.com)
 **Developer:** Anthony Simonigh
