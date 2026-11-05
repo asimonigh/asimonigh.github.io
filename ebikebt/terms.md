@@ -4,7 +4,7 @@ title: Terms of Service
 
 # Terms of Service — eBike Sync
 
-_Last updated: 2026-06-03_
+_Last updated: 2026-11-05_
 
 By installing or using the eBike Sync application ("the App"), you agree to these Terms of Service.
 
@@ -20,9 +20,11 @@ You may not reverse-engineer, decompile, or redistribute the App except as permi
 
 ## 2. Subscription
 
+Searching for your bike is free. Connecting to it requires eBike Sync Pro, a yearly subscription.
+
 ### 2.1 Free trial
 
-The App offers a 20-day free trial of the paid features. The trial starts when you opt in, not when you install the App. During the trial you can cancel at any time without being charged.
+The App offers a free trial of eBike Sync Pro. Its length is shown in the store and in the App before you subscribe. The trial starts when you opt in, not when you install the App. During the trial you can cancel at any time without being charged.
 
 ### 2.2 Auto-renewing subscription
 
